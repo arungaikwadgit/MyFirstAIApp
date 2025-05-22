@@ -1,5 +1,6 @@
 langchain
-langchain-openai
+langchain-anthropic
+langchain-cohere
 langchain-google-genai
+langchain-openai
 streamlit
-
